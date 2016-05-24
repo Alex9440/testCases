@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/test/java/bstu/AppTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/bstu/Steps2/Steps.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/bstu/page2/AbstractPage.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/bstu/page2/AddMessage.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/bstu/page2/Follow.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/bstu/page2/Jack_Dorsey.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/bstu/page2/Like.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/bstu/page2/LoginPage.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/bstu/page2/Retweet.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/bstu/page2/Search.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/bstu/page2/TranslatePage.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/bstu/page2/TunePage.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/bstu/page2/Tweet.java" charset="windows-1251" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

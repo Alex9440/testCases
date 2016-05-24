@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="bstu.AppTest" duration-ms="169524" started-at="2016-05-22T19:04:22Z" finished-at="2016-05-22T19:07:12Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="169524" started-at="2016-05-22T19:04:22Z" finished-at="2016-05-22T19:07:12Z">
+      <class name="bstu.AppTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:bstu.AppTest@4a8e836c]" name="setUp" is-config="true" duration-ms="4846" started-at="2016-05-22T22:04:22Z" description="Init browser" finished-at="2016-05-22T22:04:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="followTw()[pri:0, instance:bstu.AppTest@4a8e836c]" name="followTw" duration-ms="13459" started-at="2016-05-22T22:04:27Z" description="Follow on Twitter" finished-at="2016-05-22T22:04:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- followTw -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:bstu.AppTest@4a8e836c]" name="setUp" is-config="true" duration-ms="4407" started-at="2016-05-22T22:04:40Z" description="Init browser" finished-at="2016-05-22T22:04:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="jackDorseyTw()[pri:0, instance:bstu.AppTest@4a8e836c]" name="jackDorseyTw" duration-ms="16956" started-at="2016-05-22T22:04:45Z" description="Jack on Twitter" finished-at="2016-05-22T22:05:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jackDorseyTw -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:bstu.AppTest@4a8e836c]" name="setUp" is-config="true" duration-ms="4978" started-at="2016-05-22T22:05:02Z" description="Init browser" finished-at="2016-05-22T22:05:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="likeTw()[pri:0, instance:bstu.AppTest@4a8e836c]" name="likeTw" duration-ms="9516" started-at="2016-05-22T22:05:07Z" description="Like on Twitter" finished-at="2016-05-22T22:05:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- likeTw -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:bstu.AppTest@4a8e836c]" name="setUp" is-config="true" duration-ms="6603" started-at="2016-05-22T22:05:16Z" description="Init browser" finished-at="2016-05-22T22:05:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logInTw()[pri:0, instance:bstu.AppTest@4a8e836c]" name="logInTw" duration-ms="12740" started-at="2016-05-22T22:05:23Z" description="login to Twitter" finished-at="2016-05-22T22:05:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInTw -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:bstu.AppTest@4a8e836c]" name="setUp" is-config="true" duration-ms="6481" started-at="2016-05-22T22:05:36Z" description="Init browser" finished-at="2016-05-22T22:05:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logOutTw()[pri:0, instance:bstu.AppTest@4a8e836c]" name="logOutTw" duration-ms="17779" started-at="2016-05-22T22:05:42Z" description="logOut to Twitter" finished-at="2016-05-22T22:06:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutTw -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:bstu.AppTest@4a8e836c]" name="setUp" is-config="true" duration-ms="5603" started-at="2016-05-22T22:06:00Z" description="Init browser" finished-at="2016-05-22T22:06:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="retweetTw()[pri:0, instance:bstu.AppTest@4a8e836c]" name="retweetTw" duration-ms="13699" started-at="2016-05-22T22:06:05Z" description="Retweet on Twitter" finished-at="2016-05-22T22:06:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- retweetTw -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:bstu.AppTest@4a8e836c]" name="setUp" is-config="true" duration-ms="5803" started-at="2016-05-22T22:06:19Z" description="Init browser" finished-at="2016-05-22T22:06:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchTw()[pri:0, instance:bstu.AppTest@4a8e836c]" name="searchTw" duration-ms="25066" started-at="2016-05-22T22:06:25Z" description="Search in Twitter" finished-at="2016-05-22T22:06:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTw -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:bstu.AppTest@4a8e836c]" name="setUp" is-config="true" duration-ms="5129" started-at="2016-05-22T22:06:50Z" description="Init browser" finished-at="2016-05-22T22:06:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tweetTw()[pri:0, instance:bstu.AppTest@4a8e836c]" name="tweetTw" duration-ms="16444" started-at="2016-05-22T22:06:55Z" description="Tweet on twitter" finished-at="2016-05-22T22:07:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tweetTw -->
+      </class> <!-- bstu.AppTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- bstu.AppTest -->
+</testng-results>
